@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ckeuken
 - 👀 I’m interested in webdesign and developmen.
 - 🌱 I’m currently learning Vue.
-- 💞️ I’m looking to collaborate a few smaller projects for webdesign.
+- 💞️ I’m looking to collaborate on a few smaller projects for webdesign.
 - 📫 How to reach me is in my portfolio.
 
 <!---
