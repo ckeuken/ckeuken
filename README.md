@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckeuken
 - 👀 I’m interested in web design and web development.
-- 🌱 I’m currently learning Vue.
+- 🌱 I’m currently learning more about CSS
 - 💞️ I’m looking to collaborate smaller projects for webdesign/development.
 - 📫 How to reach me via LinkedIn.
 
