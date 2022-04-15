@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ckeuken
 - 👀 I’m interested in web design and web development.
-- 🌱 I’m currently learning more about CSS
-- 💞️ I’m looking to create static webpage in HTML5 and CSS.
+- 🌱 I’m currently learning more about CSS, Javascript and Python
+- 💞️ I’m looking to create static webpage in HTML5, CSS and Javascript.
 - 📫 How to reach me via LinkedIn.
 
 <!---
